@@ -1,3 +1,6 @@
+.env.development
+.env.test
+
 # compiled output
 /dist
 /node_modules
@@ -8,7 +11,7 @@ logs
 npm-debug.log*
 pnpm-debug.log*
 yarn-debug.log*
-yarn-error.log*
+p
 lerna-debug.log*
 
 # OS
@@ -35,3 +38,4 @@ lerna-debug.log*
 !.vscode/extensions.json
 
 db.sqlite
+test.sqlite
